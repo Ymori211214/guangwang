@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'MeetMate'
+const appName = 'DadaMate'
 </script>
 
 <template>
